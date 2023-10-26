@@ -27,4 +27,4 @@ Be sure to run these test cases to ensure that the functions work as expected.
 #Steps for installation
 Para instalar la librería, utilice el siguiente comando:
 ```bash
-pip install -U git+https://github.com/02daviidd/RepositorioDavidSanz
+pip install -U git+https://github.com/02daviidd/RepositorioDavid
